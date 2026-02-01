@@ -1,1 +1,1 @@
-print("warbot-core INSERT")
+print("warbot-core UPDATE")
