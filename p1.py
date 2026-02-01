@@ -1,1 +1,1 @@
-print("warbot-core UPDATE")
+print("warbot-core FIX")
