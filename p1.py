@@ -1,1 +1,1 @@
-print("warbot-core REINSERT")
+print("warbot-core UPDATE2")
