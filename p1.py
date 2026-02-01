@@ -1,1 +1,1 @@
-print("warbot-core FINAL")
+print("warbot-core FINAL FIX")
