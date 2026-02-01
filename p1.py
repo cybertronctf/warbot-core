@@ -1,1 +1,0 @@
-print("warbot-core FIX2")
